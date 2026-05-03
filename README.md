@@ -107,5 +107,4 @@ The alerting threshold is also fully configurable — for example, triggering no
 ---
 
 ## Author
-Elkhan Ahmadov
 https://github.com/khaan21dev
