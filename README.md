@@ -104,7 +104,3 @@ Businesses without automated monitoring rely on customers to report outages. By 
 This system detects downtime within 5 minutes and alerts the on-call engineer immediately — before customers notice. Fast detection means fast response, less revenue lost, and better customer experience. 
 The alerting threshold is also fully configurable — for example, triggering notifications only after 3 consecutive failures to reduce false positives and align with organizational incident management policies.
 
----
-
-## Author
-https://github.com/khaan21dev
